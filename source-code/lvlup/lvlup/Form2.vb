@@ -1,10 +1,10 @@
 ﻿Public Class FormCustom
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Cancel.Click
         Me.Hide()
 
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Apply.Click
         Dim DirExists As Boolean = Nothing
         If My.Computer.FileSystem.DirectoryExists("C:\ShortCut") Then
             DirExists = True
@@ -13,17 +13,17 @@
             My.Computer.FileSystem.CreateDirectory("C:\ShortCut")
         End If
         Dim Position As String = "Not defined"
-        If RadioButton1.Checked Then
+        If Middle.Checked Then
             Position = "Middle"
         Else
-            If RadioButton2.Checked Then
+            If Bottom.Checked Then
                 Position = "Bottom"
             End If
         End If
         Dim givenName As String = "Not defined"
         Dim givenURL As String = "Not defined"
-        givenURL = TextBox2.Text
-        givenName = TextBox1.Text
+        givenURL = URL.Text
+        givenName = NameS.Text
         Dim sb As New System.Text.StringBuilder
         sb.AppendLine("@echo off")
         sb.Append("start " + givenURL)
