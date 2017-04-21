@@ -1,6 +1,7 @@
 WARNING: this programm is in beta, so use on your own risk.
 
-Uninstall could damage your OS it didnt on mine but be safe and make a backup
+Uninstall is unstable now (b0.0.3) and is not working (wip - work in progress)
+//Uninstall could damage your OS it didnt on mine but be safe and make a backup//
 
 You need to run this Program as an Admin!!!
 
