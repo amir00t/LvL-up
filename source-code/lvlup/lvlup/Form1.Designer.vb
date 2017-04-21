@@ -79,12 +79,14 @@ Partial Class Form1
         '
         'Uninstall
         '
+        Me.Uninstall.BackColor = System.Drawing.SystemColors.AppWorkspace
+        Me.Uninstall.Enabled = False
         Me.Uninstall.Location = New System.Drawing.Point(147, 261)
         Me.Uninstall.Name = "Uninstall"
         Me.Uninstall.Size = New System.Drawing.Size(75, 23)
         Me.Uninstall.TabIndex = 11
         Me.Uninstall.Text = "Uninstall"
-        Me.Uninstall.UseVisualStyleBackColor = True
+        Me.Uninstall.UseVisualStyleBackColor = False
         '
         'Label3
         '

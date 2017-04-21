@@ -9,3 +9,14 @@ C:\Users\Max\Documents\Visual Studio 2017\Projects\lvlup\lvlup\obj\Debug\lvlup.v
 C:\Users\Max\Documents\Visual Studio 2017\Projects\lvlup\lvlup\obj\Debug\lvlup.exe
 C:\Users\Max\Documents\Visual Studio 2017\Projects\lvlup\lvlup\obj\Debug\lvlup.xml
 C:\Users\Max\Documents\Visual Studio 2017\Projects\lvlup\lvlup\obj\Debug\lvlup.pdb
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\bin\Debug\lvlup.exe.config
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\bin\Debug\lvlup.exe
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\bin\Debug\lvlup.pdb
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\bin\Debug\lvlup.xml
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\obj\Debug\lvlup.Form1.resources
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\obj\Debug\lvlup.FormCustom.resources
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\obj\Debug\lvlup.Resources.resources
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\obj\Debug\lvlup.vbproj.GenerateResource.Cache
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\obj\Debug\lvlup.exe
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\obj\Debug\lvlup.xml
+C:\Users\Max\Documents\GitHub\LvL-up\source-code\lvlup\lvlup\obj\Debug\lvlup.pdb
