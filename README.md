@@ -1,4 +1,6 @@
-WARNING: this programm is in beta, so use on your own risk. (The UNINSTALL function wasnt tested before!!!)
+WARNING: this programm is in beta, so use on your own risk.
+
+Uninstall could damage your OS it didnt on mine but be safe and make a backup
 
 You need to run this Program as an Admin!!!
 
