@@ -1,5 +1,6 @@
 WARNING: this programm is in beta, so use on your own risk. (The UNINSTALL function wasnt tested before!!!)
 
+You need to run this Program as an Admin!!!
 
 This Program edits Registry Keys to add Programs and URLs to the contextmenu on the Desktop
 
