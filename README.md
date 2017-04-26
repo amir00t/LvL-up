@@ -1,4 +1,4 @@
-WARNING: this programm is in beta, so use on your own risk.
+WARNING: this programm is in beta, so use on your own risk. And it is probably goint to start a false positive because it has to write in Keys in sensitive Directories in the Registry!
 
 Uninstall is unstable now (b0.0.3) and is not working (wip - work in progress)
 //Uninstall could damage your OS it didnt on mine but be safe and make a backup//
